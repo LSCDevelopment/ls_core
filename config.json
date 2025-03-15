@@ -1,0 +1,17 @@
+{
+  "staffGroups": ["superadmin", "admin", "mod"],
+  "startingMoney": {
+    "cash": 500,
+    "bank": 5000
+  },
+  "maxCharacters": 3,
+  "defaultSpawn": {
+    "x": -1044.85,
+    "y": -2749.90,
+    "z": 21.36
+  },
+  "defaultJob": {
+    "name": "unemployed",
+    "grade": 0
+  }
+}
