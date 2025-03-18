@@ -1,10 +1,9 @@
 A modern FiveM framework built with JavaScript and Node.js features, designed for easy player and vehicle management.
 
 Features
-	•	Player Management – Handle player data, jobs, and permissions with ease.
-	•	Vehicle System – Efficient and simple vehicle handling.
-	•	Performance-Oriented – Optimized for stability and smooth gameplay.
-	•	No Setup Required – Works out of the box without additional dependencies.
+Player Management – Handle player data, jobs, and permissions with ease.
+Vehicle System – Efficient and simple vehicle handling.
+Performance-Oriented – Optimized for stability.
 
 Installation
 For installation instructions, visit our documentation:
